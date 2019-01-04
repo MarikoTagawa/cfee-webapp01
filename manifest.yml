@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: cfee01012019tok02-cluster.jp-tok.containers.appdomain.cloud
+  name: WebAppMariko01
+  host: WebAppMariko01
+  disk_quota: 1024M
